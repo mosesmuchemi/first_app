@@ -2,4 +2,4 @@
 
 This is the first application for the
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
-by [Moses Muchemi](http://cetrino.co.ke/).
+by [Moses Muchemi](http://centrino.co.ke/).
